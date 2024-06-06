@@ -1,0 +1,16 @@
+{
+  "name": "websocket-telnet-proxy",
+  "version": "1.0.0",
+  "description": "A WebSocket to Telnet proxy server for connecting to MUDs.",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "net": "^1.0.2",
+    "websocket": "^1.0.34"
+  }
+}
