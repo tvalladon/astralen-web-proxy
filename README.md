@@ -36,5 +36,3 @@ This project uses the following open-source packages:
 - [websocket](https://www.npmjs.com/package/websocket)
 - [http-server](https://www.npmjs.com/package/http-server)
 - [net](https://www.npmjs.com/package/net)
-
----
