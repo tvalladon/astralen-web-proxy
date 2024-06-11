@@ -19,9 +19,9 @@ This project provides a WebSocket to Telnet proxy, allowing WebSocket clients to
 
 To start the server, run:
 
-```bash
+'''bash
 npm start
-```
+'''
 
 This will start the WebSocket server listening on port 80. When a WebSocket connection is established, the server will create a connection to the Telnet server at `connect.astralen.quest` on port 3000.
 
